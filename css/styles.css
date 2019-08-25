@@ -34,6 +34,10 @@ input {
     padding-top: 3%;
 }
 
-#what-we-do p {
+#design-p, #development-p, #product-p {
     display: none;
+}
+
+#what-we-do img {
+    cursor: pointer;
 }
