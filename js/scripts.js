@@ -1,3 +1,5 @@
+// JQuery
+
 $(document).ready(function() {
     $("#design").click(function() {
         $("#design-p").toggle();
@@ -70,10 +72,40 @@ $(document).ready(function() {
     });
 
 
-
-
     $(".project").css("margin-top", "35%");
-
-
-
 })
+
+// JS functions 
+
+function main() {
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var message = document.getElementById("message").value;
+    var mailFormat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+    
+    var validateForm = function() {
+        if(name == "" || email == "" || message == "") {
+        alert("Please fill in the form!");
+        }
+        else {
+            return true;
+        };
+
+        if(email !== mailFormat) {
+            alert("Input the correct email address!")
+        }
+        else {
+            return true;
+        };
+    }
+    
+    if (validateForm() === true) {
+            alert("We have received your message " + name + ". Thank you for reaching out to us.")
+        }
+        else {
+            return false;
+        };
+    
+
+
+};
