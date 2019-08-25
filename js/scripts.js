@@ -13,6 +13,8 @@ $(document).ready(function() {
 
     $("p").css("text-align", "center");
 
+    $("h4").css("text-align", "center");
+
 
 
 })
