@@ -15,9 +15,9 @@ $(document).ready(function() {
 
     $("p").css("text-align", "center");
 
-    $("h4").css("text-align", "center");
+    $("h5").css("text-align", "center");
 
-    $("h4").css("font-weight", "bold");
+    $("h5").css("font-weight", "bold");
 
 
     // Wrap Animation
