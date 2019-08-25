@@ -1,5 +1,5 @@
 # Delani Studio
-#### Delani Studio webpage, Aug 19 2019
+#### Delani Studio webpage, Aug 25 2019
 #### By **Brian Otieno**
 ## Description
 This website showcases Delani Studio company. This includes the services they offer, a sample of their work and also provides a medium through which one can contact the company directly.
