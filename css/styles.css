@@ -10,13 +10,13 @@
 #services {
     background-image: url("../assets/backgrounds/s_image.jpg");
     background-size: cover;
-    height: 70vh;
+    min-height: 70vh;
 }
 
 #contact {
     background-image: url("../assets/backgrounds/c_image.jpg");
     background-size: cover;
-    height: 80vh;
+    min-height: 80vh;
 }
 
 input {
@@ -136,6 +136,11 @@ input {
     position: absolute;
     top: 0;
     color: white;
+}
+
+::placeholder {
+    color: white;
+    padding: 5px;
 }
 
 /* Start of mediaquery */
