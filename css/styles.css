@@ -18,3 +18,22 @@
     background-size: cover;
     height: 80vh;
 }
+
+input {
+    width: 100%;
+    background-color: transparent;
+    border: solid white 1px;
+    color: white;
+}
+
+.msg {
+    height: 150px;
+}
+
+.custom-padding {
+    padding-top: 3%;
+}
+
+#what-we-do p {
+    display: none;
+}
