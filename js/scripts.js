@@ -19,6 +19,8 @@ $(document).ready(function() {
 
     $("h5").css("font-weight", "bold");
 
+    $("h4").css("text-align", "center");
+
 
     // Wrap Animation
 
