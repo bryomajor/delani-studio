@@ -11,7 +11,7 @@ This website showcases Delani Studio company. This includes the services they of
 One doesn't have to install this app in a server in order to have it running in their system. It's simply made from HTML, CSS, Bootstrap, Jquery and JS so one can run it directly using a browser.
 * Link to live site https://bryomajor.github.io/delani-studio
 ## Known Bugs
-The mailchimp API is yet to be applied.
+Doesn't validate if email input is an email type.
 ## Technologies Used
 HTML, CSS, Bootstrap, JS, Jquery, Google Fonts
 ## Support and contact details
