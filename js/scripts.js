@@ -80,9 +80,9 @@ $(document).ready(function() {
 // JS functions 
 
 function main() {
-    var name = document.getElementById("name").value;
-    var email = document.getElementById("email").value;
-    var message = document.getElementById("message").value;
+    var name = document.getElementById("mce-FNAME").value;
+    var email = document.getElementById("mce-EMAIL").value;
+    var message = document.getElementById("mce-MESSAGE").value;
     var mailFormat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
     
     var validateForm = function() {
