@@ -74,7 +74,7 @@ $(document).ready(function() {
     });
 
 
-    $(".project").css("margin-top", "35%");
+    $(".project").css("margin-top", "30%");
 })
 
 // JS functions 
