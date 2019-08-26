@@ -50,7 +50,7 @@ input {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: yellow;
+    background-color: white;
     opacity: 0.5;
     z-index: 1;
     position: absolute;
@@ -62,36 +62,36 @@ input {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: green;
+    background-color: white;
     opacity: 0.7;
     z-index: 1;
     position: absolute;
     top: 0;
-    color: white;
+    color: black;
 }
 
 #overlay3 {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: red;
+    background-color: white;
     opacity: 0.5;
     z-index: 1;
     position: absolute;
     top: 0;
-    color: white;
+    color: black;
 }
 
 #overlay4 {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: blue;
+    background-color: white;
     opacity: 0.5;
     z-index: 1;
     position: absolute;
     top: 0;
-    color: white;
+    color: black;
 }
 
 #overlay5 {
@@ -110,19 +110,19 @@ input {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: purple;
+    background-color: white;
     opacity: 0.5;
     z-index: 1;
     position: absolute;
     top: 0;
-    color: white;
+    color: black;
 }
 
 #overlay7 {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: grey;
+    background-color: white;
     opacity: 0.5;
     z-index: 1;
     position: absolute;
@@ -134,12 +134,12 @@ input {
     display: none;
     width: 255px;
     height: 210px;
-    background-color: maroon;
+    background-color: white;
     opacity: 0.5;
     z-index: 1;
     position: absolute;
     top: 0;
-    color: white;
+    color: black;
 }
 
 ::placeholder {
