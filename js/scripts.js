@@ -2,7 +2,9 @@
 
 $(document).ready(function() {
     $("#design").click(function() {
-        $("#design-p").toggle();
+        $("#design-p").toggle(function() {
+            $("#design").hide("fast");
+        });
     });
 
     $("#development").click(function() {
