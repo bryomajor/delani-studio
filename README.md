@@ -13,7 +13,7 @@ One doesn't have to install this app in a server in order to have it running in 
 ## Known Bugs
 Doesn't validate if email input is an email type.
 ## Technologies Used
-HTML, CSS, Bootstrap, JS, Jquery, Google Fonts
+HTML, CSS, Bootstrap, JS, Jquery, Google Fonts, Mail Chimp
 ## Support and contact details
 Incase of any issues feel free to contact me via email at bryomajor@gmail.com
 ### License
